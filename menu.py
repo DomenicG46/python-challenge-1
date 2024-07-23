@@ -118,7 +118,7 @@ while place_order:
                     }
                     i += 1
             # 2. Ask customer to input menu item number
-                menu_selection = input("pleae select an item number")
+            menu_selection = input("pleae select an item number")
 
             # 3. Check if the customer typed a number
             if menu_selection.isdigit():
